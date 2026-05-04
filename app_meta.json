@@ -1,6 +1,6 @@
 {
-  "versionCode": 1,
-  "versionName": "0.1.0",
-  "apkUrl": "https://github.com/ridvankayahan6900/KomisyonPro-releases/releases/download/v0.1.0/app-debug.apk",
-  "notes": "İlk sürüm — yarışma akışı, ezan puanlama, tutanak Claude entegrasyonu, Telegram bildirim, simülasyon modu, geçmiş arşivi."
+  "versionCode": 2,
+  "versionName": "0.2.0",
+  "apkUrl": "https://github.com/ridvankayahan6900/KomisyonPro-releases/releases/download/v0.2.0/app-debug.apk",
+  "notes": "v0.2.0 — Firebase entegrasyonu: anonim auth, Firestore yarışma yedekleme, Crashlytics. Tasarım iyileştirmeleri: ana ekran hiyerarşisi, BEKLİYOR durumu disabled, ezan ilk 3 görünümü, bölge SİZİN BÖLGENİZ rozeti, in-app updater banner. README + ezan değerlendirme tasarım sistemi."
 }
