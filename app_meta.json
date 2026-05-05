@@ -1,6 +1,6 @@
 {
-    "versionCode": 6,
-    "versionName": "0.4.0",
-    "apkUrl": "https://github.com/ridvankayahan6900/KomisyonPro-releases/releases/download/v0.4.0/app-debug.apk",
-    "notes": "v0.4.0 — Komisyon Odası yarışma şartı kaldırıldı, üyeler yarışma öncesi de chat/dürtme yapabilir. Yeni profesyonel app icon. Türk bayrağı avatar. Real-time öneri/onay senkronu. Splash animasyonu ve geri sayım sayacı."
+  "versionCode": 7,
+  "versionName": "0.4.1",
+  "apkUrl": "https://github.com/ridvankayahan6900/KomisyonPro-releases/releases/download/v0.4.1/KomisyonPro-v0.4.1.apk",
+  "notes": "v0.4.1 — Otomatik güncelleme test sürümü. Bu banner'ı gördüyseniz auto-updater çalışıyor demektir! İndirip kurun."
 }
