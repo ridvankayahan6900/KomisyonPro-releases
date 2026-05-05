@@ -1,6 +1,6 @@
 {
-  "versionCode": 4,
-  "versionName": "0.3.1",
-  "apkUrl": "https://github.com/ridvankayahan6900/KomisyonPro-releases/releases/download/v0.3.1/app-debug.apk",
-  "notes": "v0.3.1 — Yarışma günü hazır final sürüm. Form polish: T.C. (11 hane) + Belçika eID (XXX-XXXXXXX-XX) + Belçika Ulusal No (YY.MM.DD-NNN.CC) otomatik formatlama, sayı klavyesi, hane sayacı. DatePicker (Türkçe ay adlı). Ana ekran yarışma programı + komisyon listesi. Light mode sabit. Title Case. Claude doğrudan URL deep link. Yarışma akışı her adım clickable. Tüm form/UI rötuşları."
+    "versionCode": 6,
+    "versionName": "0.4.0",
+    "apkUrl": "https://github.com/ridvankayahan6900/KomisyonPro-releases/releases/download/v0.4.0/app-debug.apk",
+    "notes": "v0.4.0 — Komisyon Odası yarışma şartı kaldırıldı, üyeler yarışma öncesi de chat/dürtme yapabilir. Yeni profesyonel app icon. Türk bayrağı avatar. Real-time öneri/onay senkronu. Splash animasyonu ve geri sayım sayacı."
 }
