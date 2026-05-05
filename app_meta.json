@@ -1,6 +1,6 @@
 {
-  "versionCode": 2,
-  "versionName": "0.2.0",
-  "apkUrl": "https://github.com/ridvankayahan6900/KomisyonPro-releases/releases/download/v0.2.0/app-debug.apk",
-  "notes": "v0.2.0 — Firebase entegrasyonu: anonim auth, Firestore yarışma yedekleme, Crashlytics. Tasarım iyileştirmeleri: ana ekran hiyerarşisi, BEKLİYOR durumu disabled, ezan ilk 3 görünümü, bölge SİZİN BÖLGENİZ rozeti, in-app updater banner. README + ezan değerlendirme tasarım sistemi."
+  "versionCode": 3,
+  "versionName": "0.3.0",
+  "apkUrl": "https://github.com/ridvankayahan6900/KomisyonPro-releases/releases/download/v0.3.0/app-debug.apk",
+  "notes": "v0.3.0 — Firebase aktif: Anonymous Auth, Firestore yedekleme (europe-west1), Crashlytics. Dokunsal+işitsel: slider haptic, başarı sesi, konfeti (yarışma bittiğinde). Pulse animation, sayfa geçişleri. Halit/İsa için rehber + WhatsApp şablonları + yarışma günü kontrol listesi. v0.1.0'dan beri büyük tasarım rötuşları."
 }
