@@ -1,6 +1,6 @@
 {
-  "versionCode": 7,
-  "versionName": "0.4.1",
-  "apkUrl": "https://github.com/ridvankayahan6900/KomisyonPro-releases/releases/download/v0.4.1/KomisyonPro-v0.4.1.apk",
-  "notes": "v0.4.1 — Otomatik güncelleme test sürümü. Bu banner'ı gördüyseniz auto-updater çalışıyor demektir! İndirip kurun."
+  "versionCode": 8,
+  "versionName": "0.4.2",
+  "apkUrl": "https://github.com/ridvankayahan6900/KomisyonPro-releases/releases/download/v0.4.2/KomisyonPro-v0.4.2.apk",
+  "notes": "v0.4.2 — UI iyileştirmeleri (aksiyon kartları ortalı), Ayarlar'da Manuel Güncelleme butonu, Erişim kontrolü altyapısı (yetkisiz tespit + kill switch)."
 }
