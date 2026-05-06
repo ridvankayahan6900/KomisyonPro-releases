@@ -1,7 +1,7 @@
 {
-  "versionCode": 14,
-  "versionName": "0.4.7",
-  "minSupportedVersionCode": 14,
-  "apkUrl": "https://github.com/ridvankayahan6900/KomisyonPro-releases/releases/download/v0.4.7/KomisyonPro-v0.4.7.apk",
-  "notes": "v0.4.7 — Zorunlu güncelleme. FCM push bildirimleri (yeni sürüm uyarısı app kapalıyken bile gelir, sesli), komisyon profili Firestore'a kaydı. Eski sürümler bu sürümden sonra desteklenmiyor."
+  "versionCode": 15,
+  "versionName": "0.4.7.1",
+  "minSupportedVersionCode": 15,
+  "apkUrl": "https://github.com/ridvankayahan6900/KomisyonPro-releases/releases/download/v0.4.7.1/KomisyonPro-v0.4.7.1.apk",
+  "notes": "v0.4.7.1 — Anvers (Antwerpen) komisyon üyesi güncellemesi: Mahmut EMEK yerine Serhat CENGİZ. Yarışma öncesi son güncelleme."
 }
