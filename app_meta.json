@@ -1,6 +1,6 @@
 {
-  "versionCode": 9,
-  "versionName": "0.4.3",
-  "apkUrl": "https://github.com/ridvankayahan6900/KomisyonPro-releases/releases/download/v0.4.3/KomisyonPro-v0.4.3.apk",
-  "notes": "v0.4.3 — Çoklu cihaz senkron fix'leri: Ezan kura artık herkesle AYNI sırada, ezan puanlama Firestore canlı, bilgi sınavı manuel cevapları 3 cihazda paralel. -10sn kısaltma butonu eklendi."
+  "versionCode": 11,
+  "versionName": "0.4.5",
+  "apkUrl": "https://github.com/ridvankayahan6900/KomisyonPro-releases/releases/download/v0.4.5/KomisyonPro-v0.4.5.apk",
+  "notes": "v0.4.5 — Tutanaktan yarışmacı detay: dereceye girenlerin üstüne tıklayarak doğru/yanlış sorular, puan kırılımı görünür. Geçmiş yarışmalar için de çalışır."
 }
