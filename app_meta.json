@@ -1,6 +1,6 @@
 {
-  "versionCode": 11,
-  "versionName": "0.4.5",
-  "apkUrl": "https://github.com/ridvankayahan6900/KomisyonPro-releases/releases/download/v0.4.5/KomisyonPro-v0.4.5.apk",
-  "notes": "v0.4.5 — Tutanaktan yarışmacı detay: dereceye girenlerin üstüne tıklayarak doğru/yanlış sorular, puan kırılımı görünür. Geçmiş yarışmalar için de çalışır."
+  "versionCode": 12,
+  "versionName": "0.4.6",
+  "apkUrl": "https://github.com/ridvankayahan6900/KomisyonPro-releases/releases/download/v0.4.6/KomisyonPro-v0.4.6.apk",
+  "notes": "v0.4.6 — Güvenlik + UX sertleştirme: Telegram token APK'dan çıkarıldı, R8 minify aktif, splash bypass (process death sonrası 1sn'de ana ekran), onboarding swipe ile değişebilir, yatay layout düzeltildi."
 }
