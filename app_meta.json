@@ -1,6 +1,6 @@
 {
-  "versionCode": 12,
-  "versionName": "0.4.6",
-  "apkUrl": "https://github.com/ridvankayahan6900/KomisyonPro-releases/releases/download/v0.4.6/KomisyonPro-v0.4.6.apk",
-  "notes": "v0.4.6 — Güvenlik + UX sertleştirme: Telegram token APK'dan çıkarıldı, R8 minify aktif, splash bypass (process death sonrası 1sn'de ana ekran), onboarding swipe ile değişebilir, yatay layout düzeltildi."
+  "versionCode": 13,
+  "versionName": "0.4.6.1",
+  "apkUrl": "https://github.com/ridvankayahan6900/KomisyonPro-releases/releases/download/v0.4.6.1/KomisyonPro-v0.4.6.1.apk",
+  "notes": "v0.4.6.1 — UI rename: 'Kahoot' yerine 'Harici Platform'. v0.4.6'yı erkenden indirenler için tutarlılık hotfix'i."
 }
