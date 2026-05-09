@@ -1,7 +1,7 @@
 {
-  "versionCode": 18,
-  "versionName": "0.4.8.1",
-  "minSupportedVersionCode": 18,
-  "apkUrl": "https://github.com/ridvankayahan6900/KomisyonPro-releases/releases/download/v0.4.8.1/KomisyonPro-v0.4.8.1.apk",
-  "notes": "v0.4.8.1 — Yedek soru ekstra format düzeltmesi. Yarın yarışma için son sürüm. Yarışma öncesi MUTLAKA güncelleyin."
+  "versionCode": 19,
+  "versionName": "0.4.9",
+  "minSupportedVersionCode": 19,
+  "apkUrl": "https://github.com/ridvankayahan6900/KomisyonPro-releases/releases/download/v0.4.9/KomisyonPro-v0.4.9.apk",
+  "notes": "v0.4.9 — Yarışma akışına 9 Mayıs sabit paket formatları eklendi. Bugün dağıtılan matbu/PDF/PPTX ile birebir aynı sorular. Yarışma öncesi MUTLAKA güncelleyin."
 }
