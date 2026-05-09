@@ -1,7 +1,7 @@
 {
-  "versionCode": 17,
-  "versionName": "0.4.8",
-  "minSupportedVersionCode": 17,
-  "apkUrl": "https://github.com/ridvankayahan6900/KomisyonPro-releases/releases/download/v0.4.8/KomisyonPro-v0.4.8.apk",
-  "notes": "v0.4.8 — Kritik puanlama düzeltmeleri: Manuel Test eşitlikte 5 yedek soru otomatik açılıyor, Ezan int division puan kaybı giderildi (Double precision), yarışmacı baseline silme çalışıyor. 22 unit test eklendi. Yarışma öncesi MUTLAKA güncelleyin."
+  "versionCode": 18,
+  "versionName": "0.4.8.1",
+  "minSupportedVersionCode": 18,
+  "apkUrl": "https://github.com/ridvankayahan6900/KomisyonPro-releases/releases/download/v0.4.8.1/KomisyonPro-v0.4.8.1.apk",
+  "notes": "v0.4.8.1 — Yedek soru ekstra format düzeltmesi. Yarın yarışma için son sürüm. Yarışma öncesi MUTLAKA güncelleyin."
 }
