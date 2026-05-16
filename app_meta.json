@@ -1,7 +1,7 @@
 {
-  "versionCode": 19,
-  "versionName": "0.4.9",
+  "versionCode": 20,
+  "versionName": "0.4.10",
   "minSupportedVersionCode": 19,
-  "apkUrl": "https://github.com/ridvankayahan6900/KomisyonPro-releases/releases/download/v0.4.9/KomisyonPro-v0.4.9.apk",
-  "notes": "v0.4.9 — Yarışma akışına 9 Mayıs sabit paket formatları eklendi. Bugün dağıtılan matbu/PDF/PPTX ile birebir aynı sorular. Yarışma öncesi MUTLAKA güncelleyin."
+  "apkUrl": "https://github.com/ridvankayahan6900/KomisyonPro-releases/releases/download/v0.4.10/KomisyonPro-v0.4.10.apk",
+  "notes": "v0.4.10 — 6 bug düzeltildi (eşitlik sıfır-puan, 9 Mayıs paket metni, AccessControl, PanoYazıcı) + unit test 22→114. R8-minified, ~4 MB. Sorunsuz güncellenir."
 }
